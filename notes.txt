@@ -1,0 +1,7 @@
+
+MaterialApp
+Center Widget
+Text Widget
+
+Scaffold Widget 
+AppBar() Widget 
